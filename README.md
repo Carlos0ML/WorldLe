@@ -1,2 +1,0 @@
-# WorldLe
-Proyecto TFG FullStack ||
